@@ -1,0 +1,1 @@
+import{d as i}from"./debounce-c2dba7cb.js";import{i as n}from"./_MapCache-31dad113.js";function r(r,a,t){var e=!0,o=!0;if("function"!=typeof r)throw new TypeError("Expected a function");return n(t)&&(e="leading"in t?!!t.leading:e,o="trailing"in t?!!t.trailing:o),i(r,a,{leading:e,maxWait:a,trailing:o})}export{r as t};

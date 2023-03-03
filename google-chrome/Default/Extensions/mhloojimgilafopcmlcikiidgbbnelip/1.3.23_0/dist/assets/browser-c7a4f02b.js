@@ -1,0 +1,1 @@
+const o=document.body.clientWidth<600,e=!!("ontouchstart"in window),i=()=>window.location.protocol.includes("http"),n=()=>{var o=window.navigator.userAgent.toLowerCase();return o.indexOf("firefox")>0?"firefox":o.indexOf("edg")>0?"edge":o.indexOf("chrome/")>0?"chrome":o.indexOf("safari/")>0?"safari":"other"};export{n as browserName,i as isBrowser,o as isMobile,e as isTouch};

@@ -1,0 +1,1 @@
+import{i as r,j as n,l as a}from"./_MapCache-31dad113.js";import{n as e}from"./_baseClone-93129bef.js";function s(s,t,i){if(!r(i))return!1;var o=typeof t;return!!("number"==o?e(i)&&n(t,i.length):"string"==o&&t in i)&&a(i[t],s)}export{s as i};

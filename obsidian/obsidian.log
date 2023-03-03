@@ -1,0 +1,24 @@
+2023-03-02 10:09:49 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-03-02 10:09:49 Checking for update using Github
+2023-03-02 03:06:13 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-03-02 03:06:14 Checking for update using Github
+2023-03-02 03:06:16 Success.
+2023-03-02 03:06:16 Latest version is 1.1.15
+2023-03-02 03:06:16 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.15/obsidian-1.1.15.asar.gz
+2023-03-03 10:54:31 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-03-03 10:54:31 Checking for update using Github
+2023-03-03 10:54:38 Success.
+2023-03-03 10:54:38 Latest version is 1.1.16
+2023-03-03 10:54:38 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.16/obsidian-1.1.16.asar.gz
+2023-03-03 10:56:39 Failed to perform update
+2023-03-03 11:30:21 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-03-03 11:30:22 Checking for update using Github
+2023-03-03 11:30:24 Success.
+2023-03-03 11:30:24 Latest version is 1.1.16
+2023-03-03 11:30:24 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.16/obsidian-1.1.16.asar.gz
+2023-03-03 11:38:26 Failed to perform update
+2023-03-03 12:30:21 Checking for update using Github
+2023-03-03 12:30:23 Success.
+2023-03-03 12:30:23 Latest version is 1.1.16
+2023-03-03 12:30:23 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.1.16/obsidian-1.1.16.asar.gz
+2023-03-03 12:44:31 Failed to perform update

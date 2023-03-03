@@ -1,0 +1,6 @@
+2023/03/02-20:47:36.729 1964 Creating DB /home/kevin/.config/google-chrome/Default/IndexedDB/https_tools.liumingye.cn_0.indexeddb.leveldb since it was missing.
+2023/03/02-20:47:36.741 1964 Reusing MANIFEST /home/kevin/.config/google-chrome/Default/IndexedDB/https_tools.liumingye.cn_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/02-20:56:45.890 1962 Level-0 table #5: started
+2023/03/02-20:56:45.897 1962 Level-0 table #5: 543974 bytes OK
+2023/03/02-20:56:45.899 1962 Delete type=0 #3
+2023/03/02-20:56:45.899 1962 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,32 @@
+{
+   "description": "Ni de aqui, ni de alla: By Arturo Torres",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjvk0tHyocPA+ZJzQmSMCBSaWxNVY9KV6esUBZDO3AJqVtzc3svOYcE+0i8R/Z02Ro8HcjEpy6TgZIthvNjeAKeMgAbz+gSjHS5QOgK2SguZ+ZJJZXiL9LVjYIpPUCOTpO+5sluEFQ9gFK0DjSPLfu3iETxRThclGkmqftceKIOOuBFlT5ODbbLzMeS7kvAOITyituAQDKXKft8bbP0OWQ5RT3QOlzN7eT1qwTQ8Wj+u/tv2L1O0vQDBHgrsRqvYBI395UrDilK+w5Mubw2qNRgHjuLBFUJlczmU1ARBui9Wzmq/XfOw82mLFGhJfvRcV3wnN1ERnepTcqM76evrVjQIDAQAB",
+   "manifest_version": 3,
+   "name": "Ni de aqui, ni de alla",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 0, 0, 0 ],
+         "frame": [ 212, 187, 177 ],
+         "ntp_background": [ 212, 187, 177 ],
+         "tab_background_text": [ 0, 0, 0 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 237, 226, 221 ]
+      },
+      "images": {
+         "theme_ntp_background": "ni_de_aqui.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 1
+      },
+      "tints": {
+         "buttons": [ -1, -1, -1 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ -1, -1, -1 ],
+         "frame_incognito_inactive": [ -1, -1, -1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2"
+}

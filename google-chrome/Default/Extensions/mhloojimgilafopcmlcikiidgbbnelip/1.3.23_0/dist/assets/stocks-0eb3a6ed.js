@@ -1,0 +1,1 @@
+import{c as e,u as t}from"./index-ea316b3a.js";const y=[{Code:"002432",MktNum:"0",SecurityTypeName:"深A",SecurityType:"2"},{Code:"300750",MktNum:"0",SecurityTypeName:"深A",SecurityType:"2"},{Code:"300075",MktNum:"0",SecurityTypeName:"深A",SecurityType:"2"}],u=e((()=>t("stocks",y,{listenToStorageChanges:!1})));export{u};

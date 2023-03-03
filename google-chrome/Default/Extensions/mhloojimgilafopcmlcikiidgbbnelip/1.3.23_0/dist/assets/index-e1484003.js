@@ -1,0 +1,1 @@
+import{b as e}from"./index-08eda97d.js";import{r}from"./reactivity.esm-bundler-72867dac.js";import{c as n}from"./runtime-core.esm-bundler-77b13fca.js";const t=r(0),s=()=>{const r=e("zIndex",2e3),s=n((()=>r.value+t.value));return{initialZIndex:r,currentZIndex:s,nextZIndex:()=>(t.value++,s.value)}};export{s as u};

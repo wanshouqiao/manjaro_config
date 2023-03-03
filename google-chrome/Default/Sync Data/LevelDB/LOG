@@ -1,0 +1,15 @@
+2023/03/03-22:05:18.659 7e22 Reusing MANIFEST /home/kevin/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/03/03-22:05:18.659 7e22 Recovering log #41
+2023/03/03-22:05:18.660 7e22 Reusing old log /home/kevin/.config/google-chrome/Default/Sync Data/LevelDB/000041.log 
+2023/03/03-22:11:59.338 8697 Level-0 table #45: started
+2023/03/03-22:11:59.344 8697 Level-0 table #45: 95153 bytes OK
+2023/03/03-22:11:59.345 8697 Delete type=0 #41
+2023/03/03-22:11:59.345 8697 Compacting 4@0 + 1@1 files
+2023/03/03-22:11:59.351 8697 Generated table #46@0: 119 keys, 17034 bytes
+2023/03/03-22:11:59.351 8697 Compacted 4@0 + 1@1 files => 17034 bytes
+2023/03/03-22:11:59.352 8697 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/03/03-22:11:59.353 8697 Delete type=2 #36
+2023/03/03-22:11:59.353 8697 Delete type=2 #42
+2023/03/03-22:11:59.353 8697 Delete type=2 #33
+2023/03/03-22:11:59.353 8697 Delete type=2 #39
+2023/03/03-22:11:59.353 8697 Delete type=2 #45
